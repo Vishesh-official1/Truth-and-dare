@@ -1,0 +1,9 @@
+body{
+    background-image: url('hh.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    .modal-header .btn-close{
+        margin-right: 20px !important;
+    }
